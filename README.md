@@ -3,8 +3,8 @@
 
 # 在本地运行本 demo
   ```
-    - git clone https://github.com/wewin11235/ReactEvent.git
-    - npm init
-    - npm install
-    - webpack-dev-server
+  git clone https://github.com/wewin11235/ReactEvent.git
+  npm init
+  npm install
+  webpack-dev-server
   ```
